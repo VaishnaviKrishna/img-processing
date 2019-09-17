@@ -5,4 +5,7 @@
   * Demosaicing through bilinear interpolation
   * Malvar-He-Cutler (MHC) demosaicing
   
+### Results
+<img src="demosaicing/example_demosaicing.jpg">
+  
  
