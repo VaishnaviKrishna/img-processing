@@ -14,7 +14,7 @@
   * The second technique (Method B) is called the cumulative probability based (also called the bucket filling) histogram equalization. In this, we limit the frequency of occurrence of each grey scale value to a number corresponding to the division of the total number of pixels in the image with the possible grey scale range. Starting from the lowest pixel value, if the occurrence of any grey scale value exceeds the previously calculated number, we increment its value by one in those respective pixel locations. This gives rise to a ramp like cumulative distribution function (uniform occurrences of each grey scale value) thereby achieving contrast adjustment. 
   
   ### Results
-  <img src="demosaicing/example_demosaicing.jpg">
+  <img src="demosaicing/example_contrast_adjustment.jpg">
 
   
  
