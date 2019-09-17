@@ -17,7 +17,7 @@
   <img src="histogram%20manipulation%20for%20contrast%20enhancement/example_contrast_adjustment.jpg">
   
 ## Image Denoising
-* Images can generally get corrupted by noise during various stages of processing, starting from its generation to transmission. Thus, denoising becomes a fundamental and a vital step in image processing. The idea behind denoising is to be able to remove noise (high frequency content) as much as possible without destroying the edges (high frequency content). Through denoising, we hope to achieve a better signal to noise ratio which can help us do further processing on the data of interest. Different types of noise can be best tackled by using specific denoising techniques.The figure below shows a sample image with added noise and three filters - uniform, gaussian and bilateral used to denoise the same.
+* Images can generally get corrupted by noise during various stages of processing, starting from its generation to transmission. Thus, denoising becomes a fundamental and a vital step in image processing. The idea behind denoising is to be able to remove noise (high frequency content) as much as possible without destroying the edges (high frequency content). Through denoising, we hope to achieve a better signal to noise ratio which can help us do further processing on the data of interest. Different types of noise can be best tackled by using specific denoising techniques.The figure below shows a sample noisy image and three filters - uniform, gaussian and bilateral used to denoise the same.
 
   ### Results
   <img src="denoising/example_denoising.jpg">
