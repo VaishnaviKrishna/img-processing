@@ -22,4 +22,10 @@
   ### Results
   <img src="denoising/example_denoising.jpg">
   
+## Edge detection
+* Edge detection is an important procedure in image segmentation and processing. It is a technique to find the boundaries within an image. Edges are significant local changes of intensity in an image. The pixels at which there are discontinuities in the brightness can be treated as edge points. The study of edges is rather important because they contain information regarding the shape of an image and can be used for higher level computer vision algorithms (example: object recognition, segmentation). 
+
+  ### Results
+  <img src="edge_detection/example_edge_detection.jpg">
+  
  
